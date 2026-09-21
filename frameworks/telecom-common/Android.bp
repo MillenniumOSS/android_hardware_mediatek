@@ -5,7 +5,7 @@
 //
 
 java_library {
-    name: "mediatek-common",
+    name: "mediatek-telecom-common",
     installable: true,
     system_ext_specific: true,
     use_generic_config: true,
